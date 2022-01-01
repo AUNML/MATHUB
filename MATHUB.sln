@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MATHUB", "MATHUB.csproj", "{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E820D769-91E6-4C48-8118-B9171C0921E5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|arm64.ActiveCfg = Debug|arm64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|arm64.Build.0 = Debug|arm64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|x64.ActiveCfg = Debug|x64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|x64.Build.0 = Debug|x64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|x64.Deploy.0 = Debug|x64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|x86.ActiveCfg = Debug|x86
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Debug|x86.Build.0 = Debug|x86
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|arm64.ActiveCfg = Release|arm64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|arm64.Build.0 = Release|arm64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|x64.ActiveCfg = Release|x64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|x64.Build.0 = Release|x64
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|x86.ActiveCfg = Release|x86
+		{70E77CD4-0ACC-46B7-90F3-D15D2FEE63F1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941276A1-58E2-4F04-883E-93991F5E4EBA}
+	EndGlobalSection
+EndGlobal
